@@ -80,3 +80,6 @@ RUN find ${APACHE_DOCUMENT_ROOT} \( -path ${APACHE_DOCUMENT_ROOT}/vendor -prune 
   ;
 
 HEALTHCHECK --interval=10s --timeout=5s --retries=30 CMD pgrep apache
+
+RUN echo "test-saka-ec-01.onrender.com:80" | tee /etc/httpd/conf/httpd.conf
+RUN a2enconf httpd
