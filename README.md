@@ -8,6 +8,7 @@
 
 [![Slack](https://img.shields.io/badge/slack-join%5fchat-brightgreen.svg?style=flat)](https://join.slack.com/t/ec-cube/shared_invite/enQtNDA1MDYzNDQxMTIzLTY5MTRhOGQ2MmZhMjQxYTAwMmVlMDc5MDU2NjJlZmFiM2E3M2Q0M2Y3OTRlMGY4NTQzN2JiZDBkNmQwNTUzYzc)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/msakamoto1102/ec-cube-clone)
 
 **4.1からの更新内容は[リリースノート](https://github.com/EC-CUBE/ec-cube/releases/tag/4.2.0)をご確認ください。**
 
